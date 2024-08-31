@@ -10,17 +10,18 @@ My professional narrative has 2 main lines (fostered by continuous learning to b
 ## Languages
 ### Front-End
 * UX/UI Design (+ Figma)
-* HTML (see [madraset-elshamamsa](https://madraset-elshamamsa.com/))
-* CSS / Responsive Design / Bootstrap (see [madraset-elshamamsa](https://madraset-elshamamsa.com/))
-* JavaScript (see [madraset-elshamamsa](https://madraset-elshamamsa.com/))
+* HTML
+* CSS / Responsive Design
+* JavaScript
 * [React.js](https://github.com/stars/3omdawy/lists/react-js)
 
 ### Cross-Platform
 * [React Native](https://github.com/stars/3omdawy/lists/react-native)
 
 ### Back-End
-* PHP (see [madraset-elshamamsa](https://madraset-elshamamsa.com/))
-* SQL / MySQL (see [madraset-elshamamsa](https://madraset-elshamamsa.com/))
+* Django
+* MERN stack
+* SQL / MySQL
 * [REST APIs and JSON](https://github.com/3omdawy/little-lemon)
 
 ### Generic
